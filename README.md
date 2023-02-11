@@ -1,7 +1,7 @@
 <!-- [![MasterHead]([https://www.canva.com/design/DAFaP6I74lo/4nyVyRHNs3iEl_KuplFq_A/edit?utm_content=DAFaP6I74lo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500009/102165920-vector-line-web-concept-for-programming-linear-web-banner-learn-to-code-.jpg))](https://professional-sat.netlify.app/) -->
 
 <div align="center">
-<img src="https://source.unsplash.com/900x300/?coding,github,laptops,computer,professional" align="center" style="height="30vh" />
+<img src="https://source.unsplash.com/900x300/?coding,github,laptops,computer,professional" align="center" style="height=30vh;border-radius:5px" />
 </div> 
 <h1 align="center">Hey🙋‍♂️, I am Satendra Singh</h1>
 <h3 align="center">A passionate Web Developer and Competitive Programmer.</h3>
