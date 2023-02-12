@@ -1,22 +1,22 @@
 <!-- [![MasterHead]([https://www.canva.com/design/DAFaP6I74lo/4nyVyRHNs3iEl_KuplFq_A/edit?utm_content=DAFaP6I74lo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500009/102165920-vector-line-web-concept-for-programming-linear-web-banner-learn-to-code-.jpg))](https://professional-sat.netlify.app/) -->
 
 <div align="center">
-<img src="https://source.unsplash.com/900x218/?coding,laptops,computer,professional" align="center" style="height=30vh;border-radius:40px;" />
+<img src="https://source.unsplash.com/900x218/?coding,professional" align="center"/>
 </div> 
-<h1 align="center">Hey🙋‍♂️, I am Satendra Singh</h1>
+<h1 align="center" style="font-family: 'Futura', sans-serif;">Hey🙋‍♂️, I am Satendra Singh</h1>
 <h3 align="center">A passionate Web Developer and Competitive Programmer.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="border: 5px solid #000;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssatendra790&label=Profile%20views&color=0e75b6&style=flat" alt="ssatendra790" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, and MongoDB**
+- 🌱 I'm currently honing my skills in **ReactJS, NodeJS, and MongoDB**
 
-- 💬 Ask me about **JavaScript, React and C++**
+- 💬 I'm comfortable discussing topics related to **JavaScript, React, DSA and C++**
 
-- 📫 How to reach me **ssatendra790@gmail.com**
+- 📫 If you'd like to get in touch, here's my email: **ssatendra790@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1E3J4smam5qvq80IEkAjbByJn_cUONAGm/view?usp=sharing](https://drive.google.com/file/d/1E3J4smam5qvq80IEkAjbByJn_cUONAGm/view?usp=sharing)
+- 📄  I'm available to discuss my experiences and I'm attaching my resume for your reference. [Click Here](https://drive.google.com/file/d/1E3J4smam5qvq80IEkAjbByJn_cUONAGm/view?usp=sharing)
 
 - ⚡ Fun fact **I think I can code😁!**
 
