@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssatendra790&label=Profile%20views&color=0e75b6&style=flat" alt="ssatendra790" /> </p>
 
-- 🌱 I'm currently honing my skills in **ReactJS, NodeJS, and MongoDB**
+- 🌱 I'm currently honing my skills in **TypeScript, NextJS and MongoDB**
 
 - 💬 I'm comfortable discussing topics related to **JavaScript, React, DSA and C++**
 
