@@ -16,7 +16,7 @@
 
 - 📫 If you'd like to get in touch, here's my email: **ssatendra790@gmail.com**
 
-- 📄  I'm available to discuss my experiences and I'm attaching my resume for your reference. [Click Here](https://drive.google.com/file/d/1E3J4smam5qvq80IEkAjbByJn_cUONAGm/view?usp=sharing)
+- 📄  I'm available to discuss my experiences and I'm attaching my resume for your reference. [Click Here](https://drive.google.com/file/d/12QvofFsP9U9By1XLvqW7SMzAH1BQineQ/view?usp=sharing)
 
 - ⚡ Fun fact **I think I can code😁!**
 
