@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://source.unsplash.com/900x218/?coding,professional" align="center"/>
 </div> 
-<h1 align="center" style="font-family: 'Futura', sans-serif;">Hey🙋‍♂️, I am Satendra Singh</h1>
+<h1 align="center" style="font-family: 'Futura', sans-serif;">Hello🙋‍♂️, I am Satendra Singh</h1>
 <h3 align="center">A passionate Web Developer and Competitive Programmer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="border: 5px solid #000;">
