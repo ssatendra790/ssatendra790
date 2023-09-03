@@ -6,7 +6,8 @@
 <h1 align="center" style="font-family: 'Futura', sans-serif;">Hello🙋‍♂️, I am Satendra Singh</h1>
 <h3 align="center">A passionate Web Developer and Competitive Programmer.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="border: 5px solid #000;">
+
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTh5eGlzM2hwMHppdXgzaHFyY3I0ZHpmaXNhYmY1ZHJobG9ncmNtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" style="border: 5px solid #000;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssatendra790&label=Profile%20views&color=0e75b6&style=flat" alt="ssatendra790" /> </p>
 
